@@ -72,7 +72,9 @@
     <worksheets formatted="yes" />
   </latex>
 
-  <html>
+  
+
+  <html embed-button="yes">
 
 <analytics google-gst="G-SJDGC4233V"/>
 

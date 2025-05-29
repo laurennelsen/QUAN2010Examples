@@ -5,7 +5,7 @@
   
 
   <!-- include sections -->
-   <xi:include href="sec-summary-of-objectives.ptx" />
+   <!--<xi:include href="sec-summary-of-objectives.ptx" />-->
   <xi:include href="sec-quiz-1.ptx" />
   <xi:include href="sec-quiz-2.ptx" />
   <xi:include href="sec-quiz-3.ptx" />
@@ -13,5 +13,6 @@
   <xi:include href="sec-quiz-5.ptx" />
   <xi:include href="sec-quiz-6.ptx" />
   <xi:include href="sec-quiz-7.ptx" />
+  <xi:include href="sec-quiz-8.ptx" />
 
 </chapter>

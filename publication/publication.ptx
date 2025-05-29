@@ -109,14 +109,25 @@
     <!-- put <css style="oscarlevin"/>                         -->
     <!-- See also                                              -->
     <!-- https://pretextbook.org/doc/guide/html/publication-file-online.html#online-style-options -->
-    <css
-        style="default"
-        colors="blue_red"
+<!--    <css style="denver" theme="default-modern" primary-color="rgb(22, 50, 87)" secondary-color="rgb(215, 63, 9)"/>
+-->   
+<!--<css style="denver" theme="default-modern" primary-color="rgb(215, 63, 9)" secondary-color="rgb(22, 50, 87)"/> 
+-->    
+<css
+        theme="greeley"
+        primary-color="#386F94"
+        primary-color-dark="#5192BD"
+    />
+    <!--<css
+        style="boulder" 
+        theme="default-modern"
+        colors="blue-green"
         knowls="default"
         toc="default"
         banner="default"
         navbar="default"
-    />
+    />-->
+
     <!-- Search can be default or none, or you can use a Google-cx number to use google's search
     feature (but then variant should be set to none to avoid conflict) -->
     <search variant="default" />

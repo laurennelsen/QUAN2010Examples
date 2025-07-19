@@ -161,7 +161,8 @@
             
           </p>
           <p>
-            !!!insert links/Excel files!!!
+            <url href="external/sheets/AdvertisingRevenue1Solution.xlsx" />
+            <url href="external/sheets/BookstoreSalesDataSolution.xlsx" />
 
           </p>
       
@@ -175,8 +176,7 @@
                   <em>Objective 8a:</em>
                 </p>
                 <p>
-                  INSERT VIDEO
-                  <!--<video youtube="7dVpoPH-oig"/>-->
+                  <video youtube="Fd1XywNTbLY"/>
                 </p>
               </li>
               <li>
@@ -184,8 +184,7 @@
                   <em>Objective 8b:</em>
                 </p>
                 <p>
-                  INSERT VIDEO
-                  <!--<video youtube="4NoDrsJlHt8"/>-->
+                  <video youtube="cCiHQWl5GLk"/>
                 </p>
               </li>
             </ul>

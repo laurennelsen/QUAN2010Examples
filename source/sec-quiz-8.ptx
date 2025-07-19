@@ -111,7 +111,7 @@
                 </li>
                 <li>
                   <p>
-                    Test the overall significance of the model at a significance level of <m>\alpha=0.05</m>.
+                    Test the overall significance of the model at a significance level of <m>\alpha=0.10</m>.
                     <me>
                       H_0:\;\; \beta_1=\beta_2=\beta_3=0
                       </me>
@@ -138,7 +138,7 @@
                     <me>
                       \hat{y} = b_0+b_1\cdot x_1 + b_2\cdot x_2 +b_3\cdot x_3
                     </me>
-                    Find a <m>95\%</m> confidence interval for <m>b_2</m>.
+                    Find a <m>95\%</m> confidence interval for <m>\beta_2</m>.
                   </p>
                 </li>
                 <li>

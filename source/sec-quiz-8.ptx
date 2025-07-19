@@ -113,7 +113,9 @@
                   <p>
                     Test the overall significance of the model at a significance level of <m>\alpha=0.05</m>.
                     <me>
-                      H_0:\;\; \beta_1=\beta_2=\beta_3=0\\
+                      H_0:\;\; \beta_1=\beta_2=\beta_3=0
+                      </me>
+                      <me>
                       H_1:\;\; \text{At least one }\beta_i\neq 0
                     </me>
                     <ul>

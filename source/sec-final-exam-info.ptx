@@ -81,6 +81,10 @@ During quizzes you may NOT search the internet, use generative AI or use other r
     <p>
       The exam may have some or all of the following problems/types of problems.  (The exam may have all of these types of problems or a subset of these types of problems.  Some of these problems might not have all the parts that were on corresponding quiz/homework problems.)  Examples of these problems (except for the multiple choice problems) are shown below under <xref ref="exercises-exam-1-practice"/>.
     </p>
+
+    <p>
+      For each problem involving a hypothesis test, you may be given a left-tailed, right-tailed, or two-tailed test.  So even if the example test is a two-tailed test, you might be given a one-tailed test on the exam (or vice-versa).  So make sure you understand the process and are not just copying the formulas!
+    </p>
     
     <p>
       For the multiple choice problems, I recommend looking back at conceptual homework assignments, reviewing concepts from the notes/the book and making sure you understand the definitions and topics we've talked about.
@@ -93,7 +97,6 @@ During quizzes you may NOT search the internet, use generative AI or use other r
             <em>Part 1: </em>
           </p>
           <p>
-            This part of the exam will have the following problems/types of problems:
             <ul>
               <li>
                 <p>
@@ -269,7 +272,7 @@ During quizzes you may NOT search the internet, use generative AI or use other r
     <em>Quiz outcome <m>\boxed{7b}</m>:</em>
   </p>
   <p>
-    A company tests two different packagins for their product.  They ask members of a focus group to rate how appealing each packagin for the product is on a scale of 1-10.  A total of 25 focus group members were samples.  The file attached below is a summary of ratins for packaging A and ratings for packaging B.
+    A company tests two different packagings for their product.  They ask members of a focus group to rate how appealing each packagin for the product is on a scale of 1-10.  A total of 25 focus group members were samples.  The file attached below is a summary of ratins for packaging A and ratings for packaging B.
 
   </p>
   <p>
@@ -310,6 +313,18 @@ During quizzes you may NOT search the internet, use generative AI or use other r
   <answer>
     <p>
       Fail to reject the null
+    </p>
+  </answer>
+</task>
+<task>
+  <statement>
+    <p>
+       Is there enough evidence to conclude that the average difference in rating between packaging A and B is different from 0?
+    </p>
+  </statement>
+  <answer>
+    <p>
+      No, there is not.  Since we failed to reject the null, there is not enough evidence to conclude the alternative hypothesis is true.
     </p>
   </answer>
 </task>
@@ -674,11 +689,14 @@ During quizzes you may NOT search the internet, use generative AI or use other r
     <em>Quiz outcome <m>\boxed{7a}</m>:</em>
   </p>
   <p>
+    <em>Note:</em>  For this problem you might be given a version with equal variances or a version with unequal variances.  If you are given a version with unequal variances, then I will give you degrees of freedom in the problem.
+  </p>
+  <!--<p>
     <image source="sheets/FinalFormulas.png" width="100%">
     </image>
-  </p>
+  </p>-->
   <p>
-    Assume <m>\alpha=0.05</m>.
+    Assume <m>\alpha=0.05</m> for parts (a)-(d).
   </p>
   <p>
     A researcher wants to study average commute time for students at UCCS and students at CU Denver.  Out of 35 students from CU Denver, the average commute time was <m>\overline{x}_1=34</m>, with sample standard deviation <m>s_1=5.2</m> minutes.  Then out of 30 students from UCCS, the average commute time was <m>\overline{x}_2=22</m> minutes, with sample standard deviation <m>s_2=8.3</m> minutes.
@@ -743,6 +761,22 @@ During quizzes you may NOT search the internet, use generative AI or use other r
   <answer>
     <p>
       Since the p-value (<m>0.0467</m>) is less than <m>alpha=0.05</m>, we reject the null hypothesis, and we have enough evidence to conclude that the difference in average commute times is less than 15 minutes.
+    </p>
+  </answer>
+</task>
+
+<task>
+  <statement>
+    <p>
+      Now find a <m>99\%</m> confidence interval for the the difference in average commute times between CU Denver students and UCCS students.  (Round each of the numbers to two decimal places, and wait until the end to round.)
+    </p>
+  </statement>
+  <answer>
+    <p>
+      <me>
+        (7.30,16.70)
+      </me>
+      
     </p>
   </answer>
 </task>
